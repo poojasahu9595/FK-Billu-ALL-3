@@ -1,0 +1,67 @@
+
+================================================================
+SSD (Solid State Drives)  (9 Brands)
+================================================================
+
+Samsung
+/all/pr?p%5B%5D=facets.brand%255B%255D%3DSamsung&p%5B%5D=facets.fulfilled_by%255B%255D%3DF-Assured&sid=all&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock
+
+Western Digital (WD)
+/all/pr?p%5B%5D=facets.brand%255B%255D%3DWD&p%5B%5D=facets.fulfilled_by%255B%255D%3DF-Assured&sid=all&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock
+
+Seagate
+/all/pr?p%5B%5D=facets.brand%255B%255D%3DSeagate&p%5B%5D=facets.fulfilled_by%255B%255D%3DF-Assured&sid=all&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock
+
+Kingston
+/all/pr?p%5B%5D=facets.brand%255B%255D%3DKingston&p%5B%5D=facets.fulfilled_by%255B%255D%3DF-Assured&sid=all&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock
+
+Crucial
+/all/pr?p%5B%5D=facets.brand%255B%255D%3DCrucial&p%5B%5D=facets.fulfilled_by%255B%255D%3DF-Assured&sid=all&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock
+
+SanDisk
+/all/pr?p%5B%5D=facets.brand%255B%255D%3DSandisk&p%5B%5D=facets.fulfilled_by%255B%255D%3DF-Assured&sid=all&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock
+
+Corsair
+/all/pr?p%5B%5D=facets.brand%255B%255D%3DCorsair&p%5B%5D=facets.fulfilled_by%255B%255D%3DF-Assured&sid=all&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock
+
+Silicon Power
+/all/pr?p%5B%5D=facets.brand%255B%255D%3DSilicon%20Power&p%5B%5D=facets.fulfilled_by%255B%255D%3DF-Assured&sid=all&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock
+
+Transcend
+/all/pr?p%5B%5D=facets.brand%255B%255D%3DTranscend&p%5B%5D=facets.fulfilled_by%255B%255D%3DF-Assured&sid=all&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock
+
+
+================================================================
+ AIR CONDITIONER (AC)  (10 Brands)
+================================================================
+
+Daikin
+/all/pr?p%5B%5D=facets.brand%255B%255D%3DDaikin&p%5B%5D=facets.fulfilled_by%255B%255D%3DF-Assured&sid=all&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock
+
+Mitsubishi Electric
+/all/pr?p%5B%5D=facets.brand%255B%255D%3DMitsubishi%20Electric&p%5B%5D=facets.fulfilled_by%255B%255D%3DF-Assured&sid=all&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock
+
+Voltas
+/all/pr?p%5B%5D=facets.brand%255B%255D%3DVoltas&p%5B%5D=facets.fulfilled_by%255B%255D%3DF-Assured&sid=all&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock
+
+Blue Star
+/all/pr?p%5B%5D=facets.brand%255B%255D%3DBlue%20Star&p%5B%5D=facets.fulfilled_by%255B%255D%3DF-Assured&sid=all&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock
+
+Carrier
+/all/pr?p%5B%5D=facets.brand%255B%255D%3DCarrier&p%5B%5D=facets.fulfilled_by%255B%255D%3DF-Assured&sid=all&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock
+
+Hitachi
+/all/pr?p%5B%5D=facets.brand%255B%255D%3DHitachi&p%5B%5D=facets.fulfilled_by%255B%255D%3DF-Assured&sid=all&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock
+
+LG
+/all/pr?p%5B%5D=facets.brand%255B%255D%3DLG&p%5B%5D=facets.fulfilled_by%255B%255D%3DF-Assured&sid=all&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock
+
+Samsung
+/all/pr?p%5B%5D=facets.brand%255B%255D%3DSamsung&p%5B%5D=facets.fulfilled_by%255B%255D%3DF-Assured&sid=all&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock
+
+Haier
+/all/pr?p%5B%5D=facets.brand%255B%255D%3DHaier&p%5B%5D=facets.fulfilled_by%255B%255D%3DF-Assured&sid=all&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock
+
+Whirlpool
+/all/pr?p%5B%5D=facets.brand%255B%255D%3DWhirlpool&p%5B%5D=facets.fulfilled_by%255B%255D%3DF-Assured&sid=all&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock
+
